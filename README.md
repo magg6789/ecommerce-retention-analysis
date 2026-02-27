@@ -104,4 +104,5 @@ jupyter notebook Customer_Engagement_Retention_Analytics.ipynb
 *Dataset: [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) via Kaggle*
 
 If you made it this far, make sure to send a hi on Linkedin! https://www.linkedin.com/in/miriamgarciag/ 
+
 Se você chegou até aqui, não se esqueça de me mandar um "oi" pelo LinkedIn :)

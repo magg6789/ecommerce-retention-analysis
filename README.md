@@ -107,5 +107,5 @@ If you made it this far, make sure to send a hi on Linkedin! https://www.linkedi
 
 Si llegaste hasta aca mandame un "hola" en Linkedin. 
 
-Se você chegou até aqui, não se esqueça de me mandar um "oi" pelo LinkedIn :)
+Se você chegou até aqui, manda um "oi" pelo LinkedIn :)
 

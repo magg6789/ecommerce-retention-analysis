@@ -217,3 +217,6 @@ monthly['mom_growth'] = monthly['revenue'].pct_change() * 100
 print(monthly[['year_month_str', 'revenue', 'orders', 'customers', 'mom_growth']].tail(12).to_string(index=False))
 
 print("\nAnalysis complete. Ready for visualization.")
+
+
+print("Oh so you can read my code? Send me a 🐍 on Linkedin!")

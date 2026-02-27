@@ -1,6 +1,6 @@
 """
 Customer Engagement & Retention Analytics
-Miriam Garcia | miriamgarcia.org
+Miriam Garcia | miriamgarcia.org / linkedin.com/in/miriamgarciag/
 Dataset: Olist Brazilian E-Commerce (Kaggle)
 """
 

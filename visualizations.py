@@ -294,3 +294,6 @@ plt.close()
 print("Fig 6 saved")
 
 print("\nAll visualizations saved to /mnt/user-data/outputs/")
+
+
+print("Oh so you REALLY like visuals? Me too! Send me a 'visualize my data' on Linkedin to connect more on visual building in Python and my fav BI tools Power BI and Tableau!)
